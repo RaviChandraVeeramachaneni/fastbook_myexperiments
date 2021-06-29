@@ -11,4 +11,4 @@ Sometimes each chapter might contain multiple notebooks. So, they might be named
 
 And <b>each folder has its own README.md</b> file that will contain all the learning associated with that chapter including each experiment and it's details.
 
-Also, all the learnings are shared on my blog <a href="https://www.ravichandraveeramachaneni.github.io/" target="_blank">https://www.ravichandraveeramachaneni.github.io/</a>. And, it contains the same experiments in the form of the github gist.
+Also, all the learnings are shared on my blog <a href="https://ravichandraveeramachaneni.github.io/" target="_blank">https://ravichandraveeramachaneni.github.io/</a>. And, it contains the same experiments in the form of the github gist.

@@ -9,3 +9,5 @@ Also the final model trained will be exported & saved to export.pkl file which w
 <u><h3>Experiment-1 : bears_web_app_chap_2_exp_1</h3></u>
 
 This file consists of code where we will be using the exported model file for inference & prediction over the images we will be uploading. And all the widgets that are required to show up this notebook as a simple webapp. 
+
+The detailed explanation of the above is written in the following blogpost titled "Deep Learning for Coders / Chapter-2 / Week-3": https://ravichandraveeramachaneni.github.io/
